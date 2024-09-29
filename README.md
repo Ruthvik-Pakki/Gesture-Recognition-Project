@@ -1,5 +1,5 @@
 # Gesture-Recognition-Project
-
+https://github.com/user-attachments/assets/22e8a25b-d666-48a6-8f0f-d79465e944cf
 ## Overview
 This project implements a gesture recognition system using computer vision techniques to control mouse and keyboard inputs. It utilizes the MediaPipe library for hand tracking and the PyAutoGUI library to simulate mouse movements and keyboard presses based on hand gestures.
 
